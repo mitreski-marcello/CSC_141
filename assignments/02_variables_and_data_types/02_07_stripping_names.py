@@ -1,3 +1,6 @@
+#Marcello Mitreski
+# Chapter 2
+
 name = "\tMarcello\t"
 print(name)
 print(name.lstrip())

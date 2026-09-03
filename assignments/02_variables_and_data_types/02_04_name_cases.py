@@ -1,3 +1,6 @@
+#Marcello Mitreski
+# Chapter 2
+
 name = "Marcello"
 print(name)
 print(name.title())
