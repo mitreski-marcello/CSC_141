@@ -1,3 +1,6 @@
+#Marcello Mitreski
+# Chapter 3
+
 countries = ['Japan', 'Brazil', 'Kenya', 'Norway', 'Vietnam']
 
 # Access individual elements

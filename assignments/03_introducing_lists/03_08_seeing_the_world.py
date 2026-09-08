@@ -1,3 +1,6 @@
+#Marcello Mitreski
+# Chapter 3
+
 places = ['Tokyo', 'Reykjavik', 'Cape Town', 'Machu Picchu', 'Bali']
 
 print(places)
