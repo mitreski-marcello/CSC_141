@@ -1,5 +1,3 @@
-#Marcello Mitreski
-# chapter 3
 
 names = ["Alice", "Bob", "Charlie"]
 

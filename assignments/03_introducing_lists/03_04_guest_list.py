@@ -1,5 +1,5 @@
 #Marcello Mitreski
-# chapter 3
+# Chapter 3
 
 guests = ['Albert Einstein', 'Abraham Lincoln', 'Marie Curie']
 
