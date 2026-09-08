@@ -1,3 +1,6 @@
+#Marcello Mitreski
+# Chapter 3
+
 names = ["Alice", "Bob", "Charlie"]
 
 print(names[0])
