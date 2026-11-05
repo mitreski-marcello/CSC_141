@@ -108,5 +108,4 @@ def main():
     print("\n  Totals:", ", ".join(f"{c} x{n}" for c, n in tally.items()))
 
 
-if __name__ == "__main__":
-    main()
+main()
